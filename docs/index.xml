@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Example2</title>
+      <link>/docs/example/example2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/example/example2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sample</title>
       <link>/docs/sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
